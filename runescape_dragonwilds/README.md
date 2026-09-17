@@ -11,7 +11,7 @@
                 <img src="https://github.com/DavidV98.png" width="50px;" alt=""/><br /><sub><b>DavidV98</b></sub>
             </a>
             <br />
-            <a href="https://github.com/pterodactyl/game-eggs/commits?author=DavidV98" title="Codes"></a>
+            <a href="https://github.com/pterodactyl/game-eggs/commits?author=DavidV98" title="Codes">💻</a>
         </td>
     </tr>
 </table>
